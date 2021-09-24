@@ -1,3 +1,6 @@
+	$Alexandros Angelakis
+	#csd4334
+	
 	#register x20 we store the elements of the arr
 	#register x5 starting pointer 
 	#register x18 initialisation of i=1
